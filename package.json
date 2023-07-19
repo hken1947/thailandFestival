@@ -1,0 +1,14 @@
+{
+  "name": "thailandfestival",
+  "version": "1.0.0",
+  "description": "タイフェスティバルのLPを制作するためのリポジトリです。",
+  "main": "index.js",
+  "scripts": {
+    "compile-scss": "node-sass --watch src/style.scss dist/css/style.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^9.0.0"
+  }
+}
